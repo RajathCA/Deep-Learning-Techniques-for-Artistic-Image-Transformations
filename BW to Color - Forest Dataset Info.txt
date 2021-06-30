@@ -1,0 +1,48 @@
+Forest Dataset
+These images of forests were used in our recoloring grayscale images experiment.
+
+Train Images
+01 - https://www.pexels.com/photo/green-leafed-trees-302804/
+02 - https://www.pexels.com/photo/green-leafed-tree-38136/
+03 - https://www.pexels.com/photo/green-grass-on-forest-418831/
+04 - https://www.pexels.com/photo/green-tree-near-green-plants-142497/
+05 - https://www.pexels.com/photo/green-leaf-trees-on-forest-167698/
+06 - https://www.pexels.com/photo/green-leafed-tree-338936/
+07 - https://www.pexels.com/photo/sunset-on-rain-forest-1125776/
+08 - https://www.pexels.com/photo/forest-covered-in-white-fog-1423600/
+09 - https://www.pexels.com/photo/waterfalls-in-forest-355321/
+10 - https://www.pexels.com/photo/green-grass-field-and-green-tress-during-day-time-131723/
+11 - https://www.pexels.com/photo/waterfalls-in-forest-460621/
+12 - https://www.pexels.com/photo/dirt-road-1008739/
+13 - https://www.pexels.com/photo/pathway-in-between-trees-at-daytime-1112186/
+14 - https://www.pexels.com/photo/worm-s-view-photography-of-trees-566496/
+15 - https://www.pexels.com/photo/green-trees-675949/
+16 - https://www.pexels.com/photo/landscape-photo-of-pathway-between-green-leaf-trees-615348/
+17 - https://www.pexels.com/photo/pathway-between-green-leafed-trees-109391/
+18 - https://www.pexels.com/photo/green-pine-trees-near-mountains-under-blue-sky-1374295/
+19 - https://www.pexels.com/photo/trees-in-park-257360/
+20 - https://www.pexels.com/photo/photo-of-foggy-forest-1367192/
+21 - https://www.pexels.com/photo/trees-1093184/
+22 - https://www.pexels.com/photo/trees-in-forest-during-sunset-247421/
+23 - https://www.pexels.com/photo/autumn-fall-forest-leaves-4700/
+24 - https://www.pexels.com/photo/adventure-beautiful-boardwalk-bridge-235734/
+25 - https://www.pexels.com/photo/worm-s-view-photography-of-trees-566496/
+26 - https://www.pexels.com/photo/forest-345522/
+27 - https://www.pexels.com/photo/trees-in-forest-during-sunset-247421/
+28 - https://www.pexels.com/photo/forest-6992/
+29 - https://www.pexels.com/photo/brown-dirt-road-between-green-leaved-trees-during-daytime-52599/
+30 - https://www.pexels.com/photo/road-between-tall-tress-photo-753550/
+31 - https://www.pexels.com/photo/green-tree-beside-roadway-during-daytime-163703/
+32 - https://www.pexels.com/photo/landscape-sun-trees-path-21008/
+33 - https://www.pexels.com/photo/green-forest-under-white-sky-during-daytime-165537/
+34 - https://www.pexels.com/photo/green-pine-trees-1179229/
+35 - https://www.pexels.com/photo/black-hanging-bridge-surrounded-by-green-forest-trees-775201/
+36 - https://www.pexels.com/photo/boulder-cascade-creek-environment-219932/
+
+Test Images
+T1 - https://www.pexels.com/photo/bird-s-eye-view-photo-of-road-with-trees-1099217/
+T2 - https://www.pexels.com/photo/mossy-woods-1102911/
+T3 - https://www.pexels.com/photo/green-leaf-tree-surrounded-by-green-grass-field-209756/
+T4 - https://www.pexels.com/photo/green-leafed-trees-beside-road-1118667/
+T5 - https://www.pexels.com/photo/brown-trees-1586883/
+T6 - https://www.pexels.com/photo/forest-240040/
