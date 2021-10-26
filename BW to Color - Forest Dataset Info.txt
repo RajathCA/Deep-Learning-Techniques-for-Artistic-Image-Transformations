@@ -40,9 +40,9 @@ Train Images
 36 - https://www.pexels.com/photo/boulder-cascade-creek-environment-219932/
 
 Test Images
-T1 - https://www.pexels.com/photo/bird-s-eye-view-photo-of-road-with-trees-1099217/
-T2 - https://www.pexels.com/photo/mossy-woods-1102911/
-T3 - https://www.pexels.com/photo/green-leaf-tree-surrounded-by-green-grass-field-209756/
-T4 - https://www.pexels.com/photo/green-leafed-trees-beside-road-1118667/
-T5 - https://www.pexels.com/photo/brown-trees-1586883/
-T6 - https://www.pexels.com/photo/forest-240040/
+01 - https://www.pexels.com/photo/bird-s-eye-view-photo-of-road-with-trees-1099217/
+02 - https://www.pexels.com/photo/mossy-woods-1102911/
+03 - https://www.pexels.com/photo/green-leaf-tree-surrounded-by-green-grass-field-209756/
+04 - https://www.pexels.com/photo/green-leafed-trees-beside-road-1118667/
+05 - https://www.pexels.com/photo/brown-trees-1586883/
+06 - https://www.pexels.com/photo/forest-240040/
